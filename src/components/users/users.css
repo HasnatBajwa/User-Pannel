@@ -1,0 +1,14 @@
+input{
+    height: 25px;
+    margin: 10px;
+}
+#inputSection{
+    border: solid 2px;
+    border-radius: 2px;
+    margin: 5px;
+}
+#userInfo{
+    border: solid blue 2px;
+    margin: 5px;
+    border-radius: 3px;
+}
