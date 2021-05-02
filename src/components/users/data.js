@@ -5,38 +5,35 @@ export const UserData =[
         Email:'hasnatjbajwa@gmail.com',
         Role:'CEO',
         Permissions:'Edit,Modify,Delete,Manage',
-        Actions:'add edit remove'
+    
 },
 {
-    Id:'001',
+    Id:'002',
     Name:'Hasnat',
     Email:'hasnatjbajwa@gmail.com',
     Role:'CEO',
     Permissions:'Edit,Modify,Delete,Manage',
-    Actions:' edit remove'
+    
 },
 {
-    Id:'001',
+    Id:'003',
     Name:'Hasnat',
     Email:'hasnatjbajwa@gmail.com',
     Role:'CEO',
     Permissions:'Edit,Modify,Delete,Manage',
-    Actions:'add edit remove'
 },
 {
-    Id:'001',
+    Id:'004',
     Name:'Hasnat',
     Email:'hasnatjbajwa@gmail.com',
     Role:'CEO',
     Permissions:'Edit,Modify,Delete,Manage',
-    Actions:'add edit remove'
 },
 {
-    Id:'001',
+    Id:'005',
     Name:'Hasnat',
     Email:'hasnatjbajwa@gmail.com',
     Role:'CEO',
     Permissions:'Edit,Modify,Delete,Manage',
-    Actions:'add edit remove'
 }
 ];

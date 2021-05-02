@@ -1,15 +1,12 @@
-import Navbar from './modules/navbar/navbar';
-// import Users from './components/users/users';
+import Navbar from './modules/navbar/navbar'
 import Test from './components/users/test';
 
 function App() {
   return (
     <div>
     <Navbar/>
-    {/* <Users/> */}
-<Test/>
-   
-    </div>
+    <Test/>
+   </div>
   );
 }
 

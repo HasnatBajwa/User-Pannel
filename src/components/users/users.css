@@ -5,10 +5,19 @@ input{
 #inputSection{
     border: solid 2px;
     border-radius: 2px;
-    margin: 5px;
+    margin: 8px;
 }
 #userInfo{
     border: solid blue 2px;
     margin: 5px;
     border-radius: 3px;
+}
+.hidden{
+    visibility: hidden;
+}
+.show{
+    visibility: visible;
+}
+#toggle{
+    margin: 10px;
 }
